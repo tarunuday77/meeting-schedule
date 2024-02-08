@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@libs/*": ["src/libs/*"],
+        "@mongo/*": ["src/mongo/*"],
+        "@models/*": ["src/models/*"]
+      }
+    }
+  }
+  
